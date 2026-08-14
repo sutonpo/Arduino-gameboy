@@ -1,6 +1,6 @@
-# GameBoy2
+# GameBoy
 
-GameBoy2 is an Arduino-based handheld game console project using a 128×64 ST7920 monochrome graphical LCD, physical buttons, and an analog joystick.
+GameBoy is an Arduino-based handheld game console project using a 128×64 ST7920 monochrome graphical LCD, physical buttons, and an analog joystick.
 
 The firmware integrates multiple games under a shared menu and state-management architecture. Display rendering is handled by U8g2, while Arduino FreeRTOS is used for task scheduling.
 
