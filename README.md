@@ -8,7 +8,7 @@ The firmware integrates multiple games under a shared menu and state-management 
 
 ## Project Overview
 
-![Main Menu](images/menu.png)
+![Main Menu](images/Cover.png)
 
 The project currently contains the following modes:
 
