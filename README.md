@@ -33,6 +33,7 @@ Recommended hardware:
 - Suitable power source
 
 ### Pin Assignment
+![Main Menu](images/ele.png)
 
 | Function | Arduino Pin |
 |---|---:|
